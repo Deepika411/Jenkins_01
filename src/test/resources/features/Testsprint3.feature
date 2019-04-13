@@ -4,7 +4,7 @@
 Feature: Title of your feature
   I want to use this template for my feature file
 
-  Scenario Outline: Add Traffi details and get message
+  Scenario Outline: Add Tariff details and get message
     Given The user is in add tariff plan page
     When User type the form details"<Monthly Rental>","<Free Local MinutesFree>","<International Minutes>","<Free SMS Pack>","<Local Per Minutes Charges>","<International Per Minutes Charges>","<SMS Per Charges>"
     And Click the sumit button
